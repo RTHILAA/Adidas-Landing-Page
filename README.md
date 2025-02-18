@@ -54,7 +54,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author : 
 
-👤 Anass El Harazi
+👤 **Anass El Harazi**  
 📧 Contact: [anaswins35@gmail.com](mailto:anaswins35@gmail.com)
 
 ## Acknowledgments :
