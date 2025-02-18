@@ -25,9 +25,7 @@ We would appreciate it if you decide to use this project. Please include credit 
 ## How to Use :
 
 1-Clone the repository or download the project files.
-
 2-Open the `index.html` file in your web browser to view the landing page.
-
 3-Explore the page and interact with the elements to see the hover effects and responsive design.
 
 ## File Structure :
@@ -57,7 +55,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author : 
 
 👤 Anass El Harazi
-
 📧 Contact: [anaswins35@gmail.com](mailto:anaswins35@gmail.com)
 
 ## Acknowledgments :
